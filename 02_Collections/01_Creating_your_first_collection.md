@@ -6,7 +6,7 @@ Let's use the previous request and save it to create a new collection.
 
 <img src="https://i.ibb.co/rch5wzk/app-overview-v8.png" alt="app-overview-v8" border="0">
 
-1. click **Save** to open the **SAVE REQUEST** modal.
+1. Click **Save** to open the **SAVE REQUEST** modal.
 
 - As an optional step, enter a new request name. Otherwise, the default name will be the request URL.
 - As an optional step, enter a request description
