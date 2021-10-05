@@ -1,8 +1,6 @@
-# Interface.
-
 Postman provides a variety of views and controls for managing your API projects. The Postman UI is made up of the following components:
 
-<img src="https://i.ibb.co/c2FFpFW/app-overview-v8.png" alt="app-overview-v8" border="0">
+![Postman](https://i.ibb.co/c2FFpFW/app-overview-v8.png)
 
 1. The left sidebar provides access to your collections, APIs, environments, mock servers, monitors and request history.
 

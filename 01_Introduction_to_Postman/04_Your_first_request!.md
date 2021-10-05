@@ -1,5 +1,3 @@
-# Sending your first request.
-
 You can make requests to APIs in Postman. An API request allows you to retrieve data from a data source, or to send data. APIs run on web servers, and expose endpoints to provide their functionality.
 
 Each API request uses an HTTP method. The most common methods are **GET**, **POST**, **PUT**, and **DELETE**.
@@ -17,4 +15,4 @@ Each API request uses an HTTP method. The most common methods are **GET**, **POS
 
 3. Click **Send**. You will see the JSON data response from the server in the lower pane!.
 
-<img src="https://i.ibb.co/ZSfPqs9/app-overview-v8.png" alt="app-overview-v8" border="0">
+![Postman](https://i.ibb.co/ZSfPqs9/app-overview-v8.png)

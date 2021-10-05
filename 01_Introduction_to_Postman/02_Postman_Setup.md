@@ -1,5 +1,3 @@
-# Postman Setup.
-
 Steps to download and install the native Postman application.
 
 1. Go to the link https://www.postman.com/downloads/ and click download for Mac or Windows or Linux based on your operating system.

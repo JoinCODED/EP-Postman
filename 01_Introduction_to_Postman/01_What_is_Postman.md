@@ -1,5 +1,3 @@
-# What Is Postman.
-
 Postman is an application used for API testing. It is an HTTP client that tests HTTP requests, utilizing a graphical user interface.
 
 [![Postman](https://assets.getpostman.com/common-share/postman-platform-for-api-development-social-card.jpg 'Postman')](https://assets.getpostman.com/common-share/postman-platform-for-api-development-social-card.jpg 'Postman')
